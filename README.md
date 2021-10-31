@@ -1,4 +1,4 @@
-- Hi, I’m @LuminatiHD
+- Hi, I’m LuminatiHD
 - I’m building a little discord-bot for our school
 - I’m currently learning Python (and programming ig)
 - My email-address is yoan.mueller@protonmail.com
